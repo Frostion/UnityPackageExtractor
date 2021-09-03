@@ -1,0 +1,42 @@
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe.config
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.pdb
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csprojAssemblyReference.cache
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Form1.resources
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Properties.Resources.resources
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.GenerateResource.cache
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CoreCompileInputs.cache
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CopyComplete
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.exe
+C:\Users\arennie\source\repos\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.pdb
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe.config
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.pdb
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csprojAssemblyReference.cache
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Form1.resources
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Properties.Resources.resources
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.GenerateResource.cache
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CopyComplete
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.exe
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.pdb
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe.config
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.exe
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\UnityPackageExtractor.pdb
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csprojAssemblyReference.cache
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Form1.resources
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.Properties.Resources.resources
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.GenerateResource.cache
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.csproj.CopyComplete
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.exe
+C:\Users\Frost Sheridan\Seafile\Synced\Projects - Tech\Visual Studio\UnityPackageExtractor\UnityPackageExtractor\obj\Debug\UnityPackageExtractor.pdb
