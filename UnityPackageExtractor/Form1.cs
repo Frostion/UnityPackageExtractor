@@ -108,14 +108,19 @@ namespace UnityPackageExtractor
                 //not all asset folders actually describe a file - those should be ignored
                 if (File.Exists(asset_current_path))
                 {
-                    //read the intended path and name for this asset file
-                    string asset_new_path = File.ReadAllText(asset_pathname_path);
+                     //read the intended path and name for this asset file
+                     string asset_new_path = File.ReadAllText(asset_pathname_path);
 
-                    //the path in the "pathname" file always uses forward slashes for its directory separator char, so let's replace all of those with the system separator char to be safe
-                    asset_new_path = asset_new_path.Replace('/', Path.DirectorySeparatorChar);
+                     // Check if the path ends with "00" and remove it
+                     if (asset_new_path.EndsWith("00"))
+                     {
+                         asset_new_path = asset_new_path.Substring(0, asset_new_path.Length - 2);
+                     }
+                     //the path in the "pathname" file always uses forward slashes for its directory separator char, so let's replace all of those with the system separator char to be safe
+                     asset_new_path = RemoveInvalidFilePathCharacters(asset_new_path);
 
-                    //move and rename asset to recreate the original file structure inside our build folder
-                    string asset_new_path_absolute = build_folder + Path.DirectorySeparatorChar + asset_new_path;
+                     //move and rename asset to recreate the original file structure inside our build folder
+                     string asset_new_path_absolute = Path.Combine(build_folder, asset_new_path);
                     Directory.CreateDirectory(Path.GetDirectoryName(asset_new_path_absolute)); //create the subfolders that the asset should be in if they don't already exist
                     File.Move(asset_current_path, asset_new_path_absolute);
 
@@ -130,7 +135,14 @@ namespace UnityPackageExtractor
 
             e.Result = assets;
         }
-
+        
+         private string RemoveInvalidFilePathCharacters(string path)
+         {
+             var invalidChars = Path.GetInvalidPathChars();
+             var validPath = new string(path.Where(ch => !invalidChars.Contains(ch)).ToArray());
+             return validPath.Trim(); // Trim to remove any leading/trailing whitespace characters
+         }
+         
         //update the status label to show file reading progress
         private void backgroundWorkerExtractPackage_ProgressChanged(object sender, ProgressChangedEventArgs e)
         {
